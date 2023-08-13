@@ -23,7 +23,7 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
+        bannar_coming: "灯光！",
         balloons_flying: "小惊喜",
         cake_fadein: "上蛋糕",
         light_candle: "插蜡烛",
